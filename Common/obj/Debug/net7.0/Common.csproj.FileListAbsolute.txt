@@ -1,0 +1,12 @@
+C:\Repo\ParcelCostCalculation\Common\bin\Debug\net7.0\Common.deps.json
+C:\Repo\ParcelCostCalculation\Common\bin\Debug\net7.0\Common.dll
+C:\Repo\ParcelCostCalculation\Common\bin\Debug\net7.0\Common.pdb
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\Common.dll
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\refint\Common.dll
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\Common.pdb
+C:\Repo\ParcelCostCalculation\Common\obj\Debug\net7.0\ref\Common.dll
