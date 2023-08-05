@@ -9,10 +9,8 @@ namespace ServiceModel.Parcel
 {
     public class ParcelResponse
     {
+        public string Category { get; set; }
         public string Cost { get; set; }
-        public string Message { get; set; }
-        public Enumerations.Category Category { get; set; }
 
-        public Enumerations.InputNull InputNull { get; set; }
     }
 }

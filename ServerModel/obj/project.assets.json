@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/Common.dll": {}
         }
+      },
+      "ServiceModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServiceModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceModel.dll": {}
+        }
       }
     }
   },
@@ -19,11 +32,17 @@
       "type": "project",
       "path": "../Common/Common.csproj",
       "msbuildProject": "../Common/Common.csproj"
+    },
+    "ServiceModel/1.0.0": {
+      "type": "project",
+      "path": "../ServiceModel/ServiceModel.csproj",
+      "msbuildProject": "../ServiceModel/ServiceModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Common >= 1.0.0"
+      "Common >= 1.0.0",
+      "ServiceModel >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -61,6 +80,9 @@
           "projectReferences": {
             "C:\\Repo\\ParcelCostCalculation\\Common\\Common.csproj": {
               "projectPath": "C:\\Repo\\ParcelCostCalculation\\Common\\Common.csproj"
+            },
+            "C:\\Repo\\ParcelCostCalculation\\ServiceModel\\ServiceModel.csproj": {
+              "projectPath": "C:\\Repo\\ParcelCostCalculation\\ServiceModel\\ServiceModel.csproj"
             }
           }
         }

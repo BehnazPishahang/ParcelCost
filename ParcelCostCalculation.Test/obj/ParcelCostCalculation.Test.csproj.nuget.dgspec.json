@@ -291,6 +291,9 @@
             "projectReferences": {
               "C:\\Repo\\ParcelCostCalculation\\Common\\Common.csproj": {
                 "projectPath": "C:\\Repo\\ParcelCostCalculation\\Common\\Common.csproj"
+              },
+              "C:\\Repo\\ParcelCostCalculation\\ServiceModel\\ServiceModel.csproj": {
+                "projectPath": "C:\\Repo\\ParcelCostCalculation\\ServiceModel\\ServiceModel.csproj"
               }
             }
           }

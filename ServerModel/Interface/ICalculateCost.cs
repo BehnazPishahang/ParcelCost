@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ServiceModel.Parcel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,7 @@ namespace ServerModel.Interface
 {
     public interface ICalculateCost
     {
-        public decimal ParcelCost(int Weight, int Volume);
+        bool IsCorrectRule(ParcelContract parcel);
+        public string ParcelCost(ParcelContract parcel);
     }
 }

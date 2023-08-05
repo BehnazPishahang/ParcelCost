@@ -1,5 +1,6 @@
 ﻿using Common;
 using ServerModel.Interface;
+using ServiceModel.Parcel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,10 +11,15 @@ namespace ServerModel.Class.Cost
 {
     public class P5_LargeParcel : ICalculateCost
     {
-        public decimal ParcelCost(int Weight, int Volume)
+        public bool IsCorrectRule(ParcelContract parcel)
         {
-            return Convert.ToDecimal(Constants.Ratio.LargeRatio * Volume);
+            return parcel.GetVolume() > 2500;
+        }
 
+        public string ParcelCost(ParcelContract parcel)
+        {
+            double Cost = Constants.Ratio.LargeRatio * parcel.GetVolume();
+            return Cost.ToString("F2");
         }
     }
 }

@@ -1,3 +1,11 @@
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.csproj.AssemblyReference.cache
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.Properties.Resources.resources
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.csproj.GenerateResource.cache
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.AssemblyInfoInputs.cache
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.AssemblyInfo.cs
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.csproj.CoreCompileInputs.cache
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.MvcApplicationPartsAssemblyInfo.cache
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\bin\Debug\net7.0\appsettings.Development.json
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\bin\Debug\net7.0\appsettings.json
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\bin\Debug\net7.0\ParcelCostCalculation.exe
@@ -28,13 +36,6 @@ C:\Repo\ParcelCostCalculation\ParcelCostCalculation\bin\Debug\net7.0\ServiceMode
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\bin\Debug\net7.0\ServerModel.pdb
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\bin\Debug\net7.0\ServiceModel.pdb
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\bin\Debug\net7.0\Common.pdb
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.csproj.AssemblyReference.cache
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.GeneratedMSBuildEditorConfig.editorconfig
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.AssemblyInfoInputs.cache
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.AssemblyInfo.cs
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.csproj.CoreCompileInputs.cache
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.MvcApplicationPartsAssemblyInfo.cs
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\ParcelCostCalculation.MvcApplicationPartsAssemblyInfo.cache
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\staticwebassets\msbuild.ParcelCostCalculation.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\staticwebassets\msbuild.build.ParcelCostCalculation.props
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ParcelCostCalculation.props

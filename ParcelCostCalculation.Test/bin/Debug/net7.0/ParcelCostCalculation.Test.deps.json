@@ -1254,7 +1254,8 @@
       },
       "ServerModel/1.0.0": {
         "dependencies": {
-          "Common": "1.0.0"
+          "Common": "1.0.0",
+          "ServiceModel": "1.0.0"
         },
         "runtime": {
           "ServerModel.dll": {}

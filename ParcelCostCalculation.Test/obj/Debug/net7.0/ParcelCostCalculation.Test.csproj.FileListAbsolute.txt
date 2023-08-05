@@ -1,3 +1,8 @@
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.csproj.AssemblyReference.cache
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.AssemblyInfoInputs.cache
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.AssemblyInfo.cs
+C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.csproj.CoreCompileInputs.cache
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\bin\Debug\net7.0\testhost.dll
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\bin\Debug\net7.0\ParcelCostCalculation.deps.json
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\bin\Debug\net7.0\ParcelCostCalculation.runtimeconfig.json
@@ -117,11 +122,6 @@ C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\bin\Debug\net7.0\Common
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\bin\Debug\net7.0\ParcelCostCalculation.pdb
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\bin\Debug\net7.0\ServerModel.pdb
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\bin\Debug\net7.0\ServiceModel.pdb
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.csproj.AssemblyReference.cache
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.GeneratedMSBuildEditorConfig.editorconfig
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.AssemblyInfoInputs.cache
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.AssemblyInfo.cs
-C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.csproj.CoreCompileInputs.cache
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.csproj.CopyComplete
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\ParcelCostCalculation.Test.dll
 C:\Repo\ParcelCostCalculation\ParcelCostCalculation.Test\obj\Debug\net7.0\refint\ParcelCostCalculation.Test.dll
